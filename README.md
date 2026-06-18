@@ -1,2 +1,3 @@
 # HXS-s_Animation_Optimization
-The animations of the Animation Overhaul mod have been optimized.
+[You can download it here.
+](https://modrinth.com/resourcepack/hxss_animation_optimization)
